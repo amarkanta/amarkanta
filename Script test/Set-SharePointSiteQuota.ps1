@@ -2,7 +2,7 @@
 
 <#
 .SYNOPSIS
-    Reports all SharePoint site collections and adds additional storage quota to each.
+    Test 12 Reports all SharePoint site collections and adds additional storage quota to each.
 
 .PARAMETER TenantAdminUrl
     SharePoint admin center URL.
